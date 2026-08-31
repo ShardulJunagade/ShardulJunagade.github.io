@@ -1,14 +1,19 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ShardulJunagade
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ShardulJunagade/miniTorch
+  - Umang-Shikarvar/Distributed-Virtual-File-System
+  - ShardulJunagade/compilers-cylite
+  - ShardulJunagade/datascience-HNSW
+  - ShardulJunagade/brick-kiln-detection
+  - ShardulJunagade/2048-agent
+  - ShardulJunagade/NebulaEdit
+  - ShardulJunagade/Next-Word-Generator
+  - ShardulJunagade/Human-Activity-Recognition
+  - ShardulJunagade/EdgeNet-Image-Filters-with-CNNs
+  - ShardulJunagade/blithchron-website-25
+  - ShardulJunagade/DragNotes
+  - ShardulJunagade/NanoGrad

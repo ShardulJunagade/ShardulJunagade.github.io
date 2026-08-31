@@ -1,221 +1,277 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shardul Junagade",
+    "label": "Student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "23110297@iitgn.ac.in",
+    "phone": "+91 9833529375",
+    "url": "https://sharduljunagade.github.io/",
+    "summary": "A sophomore at IIT Gandhinagar, pursuing a Bachelor's degree in Computer Science and Engineering with a minor in Mathematics. Passionate about machine learning and competitive programming.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Indian Institute of Technology Gandhinagar",
+      "postalCode": "382355",
+      "city": "Gandhinagar",
+      "countryCode": "IN",
+      "region": "Gujarat"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shardul-junagade",
+        "url": "https://www.linkedin.com/in/shardul-junagade/"
+      },
+      {
+        "network": "X",
+        "username": "Sh4rdulX",
+        "url": "https://x.com/Sh4rdulX"
+      },
+      {
+        "network": "GitHub",
+        "username": "ShardulJunagade",
+        "url": "https://github.com/ShardulJunagade"
+      }
+    ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "work": [],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Indian Institute of Technology Gandhinagar",
+      "location": "Gandhinagar, India",
+      "url": "https://www.iitgn.ac.in/",
+      "area": "Computer Science and Engineering, Minor in Mathematics",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2023-08-01",
+      "endDate": "2027-05-01",
+      "score": "CPI: 9.22/10",
+      "courses": []
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Amber International School",
+      "location": "Thane, India",
+      "url": "https://amberinternationalschool.com/",
+      "area": "Class XII - Central Board for Secondary Education",
+      "studyType": "High School",
+      "startDate": "2021-06-01",
+      "endDate": "2023-05-01",
+      "score": "Percentage: 95.8%",
+      "courses": []
+    },
+    {
+      "institution": "Lok Puram Public School",
+      "location": "Thane, India",
+      "url": "https://lpps.co.in/",
+      "area": "Class X - Central Board for Secondary Education",
+      "studyType": "Secondary School",
+      "startDate": "2016-04-01",
+      "endDate": "2021-05-01",
+      "score": "Percentage: 98%",
+      "courses": []
     }
   ],
-  "awards": [
+  "publications": [],
+  "projects": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "Next-Word Prediction App",
+      "summary": "MLP-based next-word prediction model with a Streamlit app.",
+      "highlights": [
+        "Trained on Indian Food Recipes dataset.",
+        "Generates recipe-based text sequences.",
+        "Interactive Streamlit app with configurable hyperparameters."
+      ],
+      "startDate": "2024-09",
+      "endDate": "2024-10",
+      "url": "https://github.com/ShardulJunagade/ES-335-Assignment-3-2024-Fall"
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Matrix Factorization-Based Image Reconstruction & Compression",
+      "summary": "",
+      "highlights": [
+        "Implemented matrix factorization for image reconstruction.",
+        "Designed image compression pipeline using low-rank matrix factorization and gradient descent.",
+        "Achieved high compression ratios while preserving image quality."
+      ],
+      "startDate": "2024-09",
+      "endDate": "2024-10",
+      "url": "https://github.com/ShardulJunagade/ES-335-Assignment-2-2024-Fall"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "name": "Human Activity Recognition (HAR)",
+      "summary": "Decision Tree model for activity recognition using time-series data.",
+      "highlights": [
+        "Analyzed the UCI-HAR dataset, featuring time-series data of 30 subjects performing six activities.",
+        "Utilized the TSFEL library for feature extraction and PCA for dimensionality reduction.",
+        "Trained a Decision Tree model on the featurized data and tested it using the activity data collected with the Physics Toolbox Suite app to achieve 66% accuracy and 67% precision.",
+        "Built a custom Decision Tree implementation from scratch, achieving results comparable to Scikit-learn, with tree visualization via Graphviz."
+      ],
+      "startDate": "2024-08",
+      "endDate": "2024-09",
+      "url": "https://github.com/ShardulJunagade/Human-Activity-Recognition"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "EdgeNet - Image Filters with CNNs",
+      "summary": "Designed U-Net-based CNN to approximate classical edge-detection techniques.",
+      "highlights": [
+        "Approximated Sobel, Laplacian, and Prewitt filters without explicit filter kernels.",
+        "Achieved 93.47% accuracy and SSIM of 0.92."
+      ],
+      "startDate": "2024-09",
+      "endDate": "2024-09",
+      "url": "https://github.com/ShardulJunagade/EdgeNet-Image-Filters-with-CNNs"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Blithchron Website and PWA",
+      "summary": "Developed the official Blithchron '25 website using Astro and React.js.",
+      "highlights": [
+        "Integrated Astro for static site generation and React.js for dynamic content.",
+        "Built a Progressive Web App (PWA) for mobile users."
+      ],
+      "startDate": "2024-07",
+      "endDate": "2024-12",
+      "url": "https://blithchron.iitgn.ac.in"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "DragNotes",
+      "summary": "Built a React note-taking app.",
+      "highlights": [
+        "Added drag-and-drop functionality.",
+        "Integrated Appwrite for backend services and real-time syncing.",
+        "Implemented auto-save and customizable note colors for personalized user experience."
+      ],
+      "startDate": "2024-07",
+      "endDate": "2024-07",
+      "url": "https://github.com/ShardulJunagade/DragNotes"
+    },
+    {
+      "name": "Probability, Statistics and Data Viz Course Projects",
+      "summary": "A series of projects completed as part of the ES 114 course, covering statistical analysis, data visualization, and image processing techniques.",
+      "highlights": [
+        "Histogram Equalization and Matching",
+        "Image Binarization using Otsu's Thresholding",
+        "Principal Component Analysis (PCA)",
+        "Correlation and Covariance Analysis",
+        "Analyzed the ATP Player Rankings using statistical techniques to generate a comprehensive data narrative."
+      ],
+      "startDate": "2024-01",
+      "endDate": "2024-04",
+      "url": "https://github.com/ShardulJunagade/ES114-Probability-Statistics-Data-Visualization-Spring-24"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming Languages",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C/C++", "JavaScript", "HTML/CSS", "SQL"]
+    },
+    {
+      "name": "Libraries",
+      "level": "",
+      "icon": "fa-solid fa-book",
+      "keywords": ["PyTorch", "Scikit-Learn", "Ultralytics", "OpenCV", "BeautifulSoup", "NumPy", "Pandas", "Matplotlib", "TSFEL"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-layer-group",
+      "keywords": ["React.js", "Next.js", "Astro", "Node.js", "Express.js", "Flask", "Streamlit", "PostgreSQL"]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "",
+      "icon": "fa-solid fa-tools",
+      "keywords": ["Git", "GitHub", "VS Code", "Jupyter Notebook", "GitKraken"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean’s List Award for Academic Excellence",
+      "date": "2023-01-26",
+      "awarder": "IIT Gandhinagar",
+      "url": "",
+      "summary": "Recipient of the Dean’s List Award for Academic Excellence with a SPI of 9.81 in Semester I at IIT Gandhinagar."
+    }
+  ],
+  "certificates": [
+    {
+      "index": 1,
+      "name": "Machine Learning Specialization",
+      "date": "2024",
+      "issuer": "Stanford Online",
+      "url": "https://coursera.org/share/2a35be7aed4aafe9489a3f036d71af42",
+      "icon": "fa-solid fa-brain"
+    },
+    {
+      "index": 2,
+      "name": "The Complete 2024 Web Development Bootcamp",
+      "date": "2024",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-f0a856e4-5ea3-4388-8ff5-3e2fc44ed1fe/",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "index": 3,
+      "name": "GitHub Actions Certification",
+      "date": "2024",
+      "issuer": "GitHub",
+      "url": "https://www.credly.com/badges/20d8fd3a-31e2-4a65-b084-e33efb7e7069/public_url",
+      "icon": "fa-brands fa-github"
+    },
+    {
+      "index": 4,
+      "name": "GitHub Foundations Certification",
+      "date": "2024",
+      "issuer": "GitHub",
+      "url": "https://www.credly.com/badges/cb3ccb50-6f27-4446-b626-0cde17bb9991/",
+      "icon": "fa-brands fa-github"
+    },
+    {
+      "index": 5,
+      "name": "MATLAB Onramp Certification",
+      "date": "2024",
+      "issuer": "MATLAB",
+      "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=daa4e68f-5487-432f-9d75-eaefe9c3c995&",
+      "icon": "fa-solid fa-calculator"
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Hindi",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Marathi",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Mathematics",
+      "icon": "fa-solid fa-square-root-variable",
+      "keywords": ["Number Theory", "Linear Algebra", "Probability", "Statistics"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Books",
+      "icon": "fa-solid fa-book",
+      "keywords": ["Harry Potter", "Hercule Poirot", "Kane and Abel"]
+    },
+    {
+      "name": "Shows",
+      "icon": "fa-solid fa-tv",
+      "keywords": ["HIMYM", "The Walking Dead", "Friends", "DARK"]
+    },
+    {
+      "name": "Gaming",
+      "icon": "fa-solid fa-gamepad",
+      "keywords": ["Call of Duty", "Forza Horizon", "FIFA"]
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
-    }
-  ]
+  "references": []
 }
