@@ -41,3 +41,13 @@ I have been passionate about Mathematics from a young age, which has shaped my a
 In addition to ML, I am passionate about competitive programming, data structures & algorithms (DSA), and software development. I enjoy solving challenging algorithmic problems, exploring new technologies, and building impactful projects. I also serve as a CDS Internship Coordinator at IITGN, facilitating industry connections and opportunities for my peers.
 
 When I’m not coding or researching, you’ll find me watching some sci-fi show or reading books. I also enjoy listening to music to relax.
+
+<!-- ================= NEW VERSION BELOW (delete everything above this line) ================= -->
+
+Hi, I’m Shardul. I’m a final year B.Tech student in Computer Science and Engineering at [IIT Gandhinagar](https://iitgn.ac.in/).
+
+Most of my research has been at IITGN’s [Sustainability Lab](https://sustainability-lab.github.io/) with [Prof. Nipun Batra](https://nipunbatra.github.io/), where I worked on spotting brick kilns in satellite imagery to help track air pollution across the Indo-Gangetic Plain. That work became SentinelKilnDB, which was accepted at NeurIPS 2025. I also spent a summer at the [CVIG Lab](https://shanmugaiit.github.io/cvig-lab/) with Prof. Shanmuganathan Raman, getting diffusion models to generate images that change meaning when you flip or rotate them.
+
+More recently I interned at [DevRev](https://devrev.ai/) as a Member of Technical Staff, building Go and gRPC services that let customers bring their own domains to DevRev support portals. That summer pulled me toward backend and distributed systems, and I have been building in that direction since, usually from scratch so I actually understand how the pieces fit together.
+
+When I’m not coding or reading papers, I’m probably watching sci-fi, getting through a book, or listening to music.
